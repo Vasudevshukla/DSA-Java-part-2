@@ -29,7 +29,8 @@ public class EquillibriumIndexOrpivotIndexProblem {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("hello");
+		System.out.println("hello world ");
+		System.out.println("hellooo");
 		int arr[]= {0,0,0,0,2};
 		int leftsum[]=prefixsum(arr);
 		int rightsum[]=suffixsum(arr);
