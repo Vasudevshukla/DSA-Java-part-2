@@ -31,6 +31,7 @@ public class EquillibriumIndexOrpivotIndexProblem {
 
 		System.out.println("hello world ");
 		System.out.println("hellooo");
+		System.out.println("new branch");
 		int arr[]= {0,0,0,0,2};
 		int leftsum[]=prefixsum(arr);
 		int rightsum[]=suffixsum(arr);
